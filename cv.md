@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: CV
+permalink: /cv/
 ---
 
-一个关于存储的网站
+CV
 
 
 [jekyll-organization]: https://github.com/jekyll
